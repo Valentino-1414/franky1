@@ -1,0 +1,95 @@
+.mybox1 {
+    width: 650px;
+    height: 50%;
+    background: wheat;
+    margin-left: 20%;
+    margin-top: 20px;
+    
+}
+
+.jap {
+    text-align: center;
+    color: rgba(1, 1, 27, 0.877);
+    display: inline;
+    margin-left: 15%;
+}
+
+.exp {
+    display: inline;
+    margin-left: 1%;
+    color: red;
+}
+
+.reg {
+    display: inline;
+    margin-left: 20%;
+    color: red;
+    display:inline;
+}
+
+.right {
+    width: 120px;
+    height: 120px;
+    margin-left: 80%;
+    display: inline;
+    margin-top: -0.5%;
+    
+}
+
+.left {
+    width: 150px;
+    height: 200px;
+    display: inline;
+    margin-left: 2%;
+    margin-top:-19%;
+}
+
+.top-center {
+    text-align: center;
+    margin-top: -35%;
+    
+}
+
+
+
+.slead {
+    width: 150px;
+    margin-left: 25%;
+    border-radius: 75px;
+    opacity: 0.7;
+    margin-top: -12%;
+    display: inline;
+}
+
+.her {
+    margin-top: -3%;
+    display: block;
+    margin-left: -20%;
+}
+
+.flge {
+    width: 100px;
+    margin-left: 80%;
+    margin-top: -2%;
+    border-radius: 50px;
+}
+
+.code {
+    color: red;
+    display: inline;
+    margin-left: 2%;
+}
+
+.coll {
+    margin-left: 75%;
+    margin-top: -20%;
+    color: red;
+}
+
+/* PHONE */
+
+@media screen and (min-width: 300px) {
+    
+
+    
+}
